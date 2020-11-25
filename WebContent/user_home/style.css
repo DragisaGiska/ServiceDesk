@@ -1,0 +1,295 @@
+table
+{
+    clear: both;
+    background-color: #ffffff;
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+tbody
+{
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+tr
+{
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+td
+{
+   display: table-cell;
+   vertical-align: inherit;
+}
+.okvir
+{
+    background-color: #ffffff;
+    box-shadow: 0px 0px 20px 0px #345487;
+}
+
+.outline
+{
+    border: 1px solid #b4c8e5;
+    background: #ffffff;
+    padding: 2px;
+}
+
+.clr
+{
+    clear: both;
+}
+.headerr
+{
+    text-align: left;
+    border: 0px;
+    margin: 0px;
+    padding: 2px;
+    padding-bottom: 0px;
+}
+.header1
+{
+    float: left;
+    padding: 0px;
+    width: 100%;
+    height: 70px;
+    background-color: #8ba6e5;
+    
+}
+.footer1 
+{
+    padding: 3px;
+    color: #31668b;
+}
+.navi
+{
+    float: left;
+    margin-top: 2px;
+    width: 202px;
+}
+.content
+{
+    padding: 0px;
+    margin: 0px;
+    margin-left: 2px;
+    margin-right: 2px;
+    float: left;
+    width: 100px;
+    
+}
+.left
+{
+    border: 1px solid #b4c8e5;
+    padding: 2px;
+    padding-top: 0px;
+    float: none !important;
+}
+.title
+{
+    background-image: url(https://www.etf.ues.rs.ba/template/images/title_bg.png);
+    color: #666666;
+    text-align: left;
+    padding-left: 9px;
+    margin-top:2px;
+    height: 24px;
+    line-height: 22px;
+    font-weight: bold;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-shadow: 3px 2px #cccccc;  
+}
+.menu
+{
+    display: block;
+    background-image: url(https://www.etf.ues.rs.ba/template/images/menu.gif);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    vertical-align: middle;
+    font-size: 12px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: left;
+    padding-top: 7px;
+    padding-left: 15px;
+    width: 178px;
+    text-decoration: none;
+}
+.button 
+{
+    cursor: pointer;
+    color: #333333;
+    background-color: #EBEDE9;
+    font-family: Arial, Hevlvetica, sans-serif;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    border: 1px double #b4c8e5;
+    width: auto;
+    padding: 0px 5px;
+    line-height: 18px !important;
+    line-height: 16px;
+    height: 26px !important;
+    height: 24px;
+    margin: 1px;
+}
+input
+{
+    padding-left: 2px;
+    border: solid 1px #b4c8e5;
+    background-color: #ffffff;
+    font-size: 14px;
+    vertical-align: text-bottom;
+    -moz-border-radius: 4px;
+    
+}
+img
+{
+    vertical-align: middle;
+    padding: 0px;
+    text-decoration: none;
+    background: none;
+    border: 0px;
+    
+}
+a
+{
+    color: #31668b;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 150%;
+}
+.contentTitle
+{
+    padding: 5px;
+    border: 1px solid #b4c8e5;
+    height: 195px;
+}
+.table1
+{
+    width: 100%;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+}
+.slide
+{
+    display: block;
+    position: relative;
+    margin: 5px auto 35px;
+    width: 990px;
+    height: 200px;
+
+}
+.picture
+{
+    display: block;
+    position: relative;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+    width: 100%;
+    height: 200px;
+}
+.picture1
+{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 100%;
+}
+.toptext
+{
+    border: 1px solid #b4c8e5;
+    margin: 0px;
+    margin-bottom: 2px;
+    margin-top: 2px; 
+}
+.contentstyle
+{
+    margin: 0px 0px 0px 0px;
+    border: 1px solid #cccccc;
+}
+.contentmenu
+{
+    color: #ffffff;
+    padding-top: 10px;
+    height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #6290b7;
+    border: 1px solid #cccccc;
+    font-size: 13px;
+}
+.news
+{
+    border: 1px solid #b4c8e5;
+    width: 970px;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 7px;
+}
+.newtitle
+{
+    font-size: 14px;
+    text-shadow: 1px 1px #cccccc;
+}
+.newsautor
+{
+    color: #999999;
+    font-size: 13px;
+}
+.titletext
+{
+    background: url(https://www.etf.ues.rs.ba/template/images/arrowBlue.png) no-repeat;
+    line-height: 200%;
+    padding: 0 0 0 20px;
+    font-size: 110%;
+}
+.adminn
+{
+    color: #333333;
+    text-align: left;
+    padding-left: 25px;
+    margin-top:12px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-shadow: 3px 2px #cccccc; 
+}
+.table2
+{
+    width:985px;
+    margin-left: 10px;
+    padding: 3px;
+    margin-right: 2px;
+}
+.title2
+{
+    color: #31668b;
+    font-weight: bold;
+    font-size: 16px;
+    text-shadow: 1px 1px #cccccc;
+    
+}
+textarea
+{
+    padding-left: 2px;
+    border: solid 1px #b4c8e5;
+    background-color: #ffffff;
+    font-size: 14px;
+    vertical-align: text-bottom;
+    -moz-border-radius: 4px;  
+}
+
